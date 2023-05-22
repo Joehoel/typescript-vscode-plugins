@@ -335,7 +335,7 @@ export type Configuration = {
      */
     miscDefinitionImprovement: boolean
     /**
-     * Removes definiion suggestion from vue `components` options.
+     * Removes definition suggestion from vue `components` options.
      * Might be useful with [Vetur-extended goToDefinition](https://github.com/zardoy/vetur-extended/blob/main/src/gotoDefinition.ts) for components as a replacement for (https://github.com/vuejs/language-tools/issues/1245)
      * @default false
      */
